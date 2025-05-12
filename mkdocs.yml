@@ -1,0 +1,3 @@
+site_name: Knowledge Base
+nav:
+ - About: about.md
