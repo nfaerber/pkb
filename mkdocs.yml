@@ -1,3 +1,4 @@
 site_name: Knowledge Base
 nav:
+ - Home: index.md
  - About: about.md
